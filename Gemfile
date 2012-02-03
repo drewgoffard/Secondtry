@@ -8,7 +8,7 @@ gem 'rails', '3.2.1'
 gem 'sqlite3'
 
 gem 'json'
-
+gem 'therubyracer', :platforms => :ruby
 
 group :development do 
 	gem 'rspec-rails', '2.0.0'
